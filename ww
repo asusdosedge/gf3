@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Example</title>
+</head>
+<body>
+    <p>This is an example of a simple HTML page with one paragraph.</p>
+</body>
+</html>
+AI-generated code. Review and use carefully. More info on FAQ.
+You can copy and paste this code into a new file in your text editor or IDE, and save the file as “index.html” 1.
+
+Unordered List:
+HTML
+
+<ul>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+</ul>
+AI-generated code. Review and use carefully. More info on FAQ.
+Ordered List:
+HTML
+
+<ol>
+    <li>First item</li>
+    <li>Second item</li>
+    <li>Third item</li>
+</ol>
+AI-generated code. Review and use carefully. More info on FAQ.
+Link:
+HTML
+
+<a href="https://www.example.com">Visit Example</a>
+AI-generated code. Review and use carefully. More info on FAQ.
+Image:
+HTML
+
+<img src="image.jpg" alt="Example Image">
